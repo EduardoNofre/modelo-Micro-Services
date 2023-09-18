@@ -51,13 +51,13 @@ Tem como objetivo servi como um modelo de construção de micro serviço Java. U
   
 #### Passo 7:<br>
    • Clique em "Add..." e a seguinte tela será exibida. <br/>
-   • Insira as seguintes propriedades.<br/>
+   • Insira as seguintes propriedades.<br>
    
    Propriedade: sonar.host.url
-   Valor: http://seuIP:9000/
+   <br>Valor: http://seuIP:9000/
    
    Propriedade-> sonar.login
-   Valor: seu usuario
+   <br>Valor: seu usuario
    
    Propriedade-> sonar.password
    <br>Valor: senha senha<br>
