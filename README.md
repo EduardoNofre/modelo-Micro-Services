@@ -56,7 +56,7 @@ Tem como objetivo servi como um modelo de construção de micro serviço Java. U
             sonar.password senha senha <br>            
         No final deve ficar algo parecido com a imagem abaixo <br>
 
-      ![add](add.PNG)
+    ![goals](add.PNG)
   
    Passo 8: Adicionado as as propriedades clique em apply e depois m Run.<br>
   
