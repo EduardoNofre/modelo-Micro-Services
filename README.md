@@ -25,5 +25,14 @@ Tem como objetivo servi como um modelo de construção de micro serviço Java. U
 
 ## `Ide Eclipse`
 - Configurar sonar eclipse
+     passo 1: Vá ate o seu projeto e clique bom o botão direito sobre ele. Será exibidas algumas opções.
+     passo 2: Va ate o a opção "Run As"
+     passo 3: Selecione a opção "5 Maven Build..."
+     *Esta imagem mostra os passos 1,2 e 3.*  
+      ![sonar](ocr01.PNG)
+
+     passo 4:
+     passo 5:
+  
 - Configurar Jacoco
 - Plugin sonarLint
