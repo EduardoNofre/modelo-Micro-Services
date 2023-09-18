@@ -95,7 +95,7 @@ Passo 8: <br>
 • Insira as seguintes propriedades.
 
  Propriedade: surefire.useFile 
- Valor: false <br>  
+ <br>Valor: false   
    
 Propriedade: skip.failsafe.tests 
 <p>Valor:true</p>   
