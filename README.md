@@ -55,9 +55,9 @@ Tem como objetivo servi como um modelo de construção de micro serviço Java. U
    
    Propriedade: sonar.host.url
    <br>Valor: http://seuIP:9000/<br/>
-   <br>Propriedade-> sonar.login<br/>
-   <br>Valor: seu usuario<br><br/>
-   <br>Propriedade-> sonar.password<br><br/>
+   Propriedade-> sonar.login
+   <br>Valor: seu usuario<br/>
+   Propriedade-> sonar.password
    <br>Valor: senha senha <br/>
    
    No final deve ficar algo parecido com a imagem abaixo <br>
