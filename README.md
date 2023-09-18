@@ -50,15 +50,16 @@ Tem como objetivo servi como um modelo de construção de micro serviço Java. U
    ![goals](goals.PNG)
   
 #### Passo 7:<br>
-   • Clique em "Add..." e a seguinte tela será exibida. <br>
-   • Insira as seguintes propriedades.<br>
+   • Clique em "Add..." e a seguinte tela será exibida. <br/>
+   • Insira as seguintes propriedades.<br/>
    
    Propriedade: sonar.host.url
-      <p>Valor: http://seuIP:9000/</p>
-   Propriedade-> sonar.login     
-      <p>Valor: seu usuario <br></p>
-   Propriedade-> sonar.password  
-      <p>Valor: senha senha <br> </p>         
+   <br/>Valor: http://seuIP:9000/
+   <br/>Propriedade-> sonar.login
+   <br/>Valor: seu usuario
+   <br/>Propriedade-> sonar.password
+   <br/>Valor: senha senha <br>
+   
    No final deve ficar algo parecido com a imagem abaixo <br>
 
    ![goals](add.PNG)
