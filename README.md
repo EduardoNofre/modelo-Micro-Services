@@ -139,3 +139,13 @@ Propriedade: skip.failsafe.tests
 • Após inserir o  valor em "Work with".Para finalizar e so next,next e finish
   ![sonarlint04](sonarlint04.PNG)
 
+  <h1 align="center">
+       Utlização dos protocolos devem o padrão abaixo.
+   </h1>
+#### HTTP 200:<br>
+      Deve ser usado para consultas que tenha algum retorno : 200 ok <br>
+#### HTTP 201:<br>
+      Deve ser usado persistencia de dados com sucesso : 201 ok <br>
+#### HTTP 204:<br>
+      Deve ser usado para consultas que não encontrou um determinado valor no banco : 204 ok <br>
+   
