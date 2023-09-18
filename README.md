@@ -25,15 +25,33 @@ Tem como objetivo servi como um modelo de construção de micro serviço Java. U
 
 ## `Ide Eclipse`
 - Configurar sonar eclipse
-     passo 1: Vá ate o seu projeto e clique bom o botão direito sobre ele. Será exibidas algumas opções.<br>
-     passo 2: Va ate o a opção "Run As"<br>
-     passo 3: Selecione a opção "5 Maven Build..."<br>
-     Esta imagem mostra os passos 1,2 e 3.
+     Passo 1:
+        • Vá ate o seu projeto e clique bom o botão direito sobre ele. Será exibidas algumas opções.<br>
+     Passo 2:
+        • Va ate o a opção "Run As"<br>
+     Passo 3:
+        • Selecione a opção "5 Maven Build..."<br>
+        
+  #### Esta imagem mostra os passos 1,2 e 3.
 
      ![sonar](sonar.png)
 
-     passo 4:
-     passo 5:
+     Passo 4: Ao selecione a opção "5 Maven Build...  <br>
+        • Será exibida a tela como mostra a imagem abaixo.
+  
+     ![Mavem Build ...](buildMaven.PNG)
+  
+     Passo 5:
+        • Note que na imagem acima o botão "Add..." está cirluado <br>
+     Passo 6:
+        • Clique no label "Goals" e insira o seguinte valor *org.sonarsource.scanner.maven:sonar-maven-plugin:3.3.0.603:sonar*;
+
+    ![goals](goals.PNG)
+  
+     Passo 7:
+        • Clique em "Add..." e a seguinte tela será exibida.
+
+        
   
 - Configurar Jacoco
 - Plugin sonarLint
