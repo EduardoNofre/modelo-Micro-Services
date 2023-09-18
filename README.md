@@ -26,30 +26,30 @@ Tem como objetivo servi como um modelo de construção de micro serviço Java. U
 ## `Ide Eclipse`
 - Configurar sonar eclipse<br>
      Passo 1:<br>
-        • Vá ate o seu projeto e clique bom o botão direito sobre ele. Será exibidas algumas opções.
+        • Vá ate o seu projeto e clique bom o botão direito sobre ele. Será exibidas algumas opções.<br>
      Passo 2:<br>
-        • Va ate o a opção "Run As".
+        • Va ate o a opção "Run As".<br>
      Passo 3:<br>
-        • Selecione a opção "5 Maven Build..."
+        • Selecione a opção "5 Maven Build..."<br>
         
   #### Esta imagem mostra os passos 1,2 e 3.
 
      ![sonar](sonar.png)
 
      Passo 4:<br>
-        • Ao selecione a opção "5 Maven Build...! Será exibida a tela como mostra a imagem abaixo.
+        • Ao selecione a opção "5 Maven Build...! Será exibida a tela como mostra a imagem abaixo.<br>
   
      ![Mavem Build ...](buildMaven.PNG)
   
      Passo 5:<br>
-        • Note que na imagem acima o botão "Add..." está cirluado 
+        • Note que na imagem acima o botão "Add..." está cirluado.<br>
      Passo 6:<br>
-        • Clique no label "Goals" e insira o seguinte valor *org.sonarsource.scanner.maven:sonar-maven-plugin:3.3.0.603:sonar*;
+        • Clique no label "Goals" e insira o seguinte valor *org.sonarsource.scanner.maven:sonar-maven-plugin:3.3.0.603:sonar*;<br>
 
     ![goals](goals.PNG)
   
      Passo 7:<br>
-        • Clique em "Add..." e a seguinte tela será exibida.
+        • Clique em "Add..." e a seguinte tela será exibida.<br>
 
         
   
