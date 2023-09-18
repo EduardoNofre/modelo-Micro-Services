@@ -25,7 +25,9 @@ Tem como objetivo servi como um modelo de construção de micro serviço Java. U
 - Lombok
 
 ## `Ide Eclipse`
+
 ### Configurar sonar no eclipse<br>
+
      Passo 1:<br>
         • Vá ate o seu projeto e clique bom o botão direito sobre ele. Será exibidas algumas opções.<br>
      Passo 2:<br>
