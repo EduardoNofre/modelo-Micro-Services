@@ -36,19 +36,19 @@ Tem como objetivo servi como um modelo de construção de micro serviço Java. U
 
      ![sonar](sonar.png)
 
-     Passo 4: Ao selecione a opção "5 Maven Build...  <br>
-        • Será exibida a tela como mostra a imagem abaixo.
+     Passo 4:<br>
+        • Ao selecione a opção "5 Maven Build...! Será exibida a tela como mostra a imagem abaixo.
   
      ![Mavem Build ...](buildMaven.PNG)
   
-     Passo 5:
-        • Note que na imagem acima o botão "Add..." está cirluado <br>
-     Passo 6:
+     Passo 5:<br>
+        • Note que na imagem acima o botão "Add..." está cirluado 
+     Passo 6:<br>
         • Clique no label "Goals" e insira o seguinte valor *org.sonarsource.scanner.maven:sonar-maven-plugin:3.3.0.603:sonar*;
 
     ![goals](goals.PNG)
   
-     Passo 7:
+     Passo 7:<br>
         • Clique em "Add..." e a seguinte tela será exibida.
 
         
