@@ -127,4 +127,10 @@ Propriedade: skip.failsafe.tests
 
 #### Passo 4:<br>  
   • Insira o valor no label "Work with": SonarLint for Eclipse Update Site - https://eclipse-uc.sonarlint.org <br>
+
+![sonarlint04](sonarlint03.PNG)
+
+#### Passo 5:<br>
+• Após inserir o  valor em "Work with".Para finalizar e so next,next e finish
   ![sonarlint04](sonarlint04.PNG)
+
