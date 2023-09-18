@@ -54,9 +54,9 @@ Tem como objetivo servi como um modelo de construção de micro serviço Java. U
             sonar.host.url  http://3.90.84.41:9000/ <br>
             sonar.login seu usuario <br>
             sonar.password senha senha <br>            
-        No final deve ficar algo parecido com a imagem abaixo: <br>
+        No final deve ficar algo parecido com a imagem abaixo <br>
 
-      ![goals](add.PNG)
+      ![add](add.PNG)
   
    Passo 8: Adicionado as as propriedades clique em apply e depois m Run.<br>
   
