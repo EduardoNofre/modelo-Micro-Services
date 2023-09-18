@@ -51,7 +51,7 @@ Tem como objetivo servi como um modelo de construção de micro serviço Java. U
   
 #### Passo 7:<br>
    • Clique em "Add..." e a seguinte tela será exibida. <br>
-   • Insira as seguintes propriedades.
+   • Insira as seguintes propriedades.<br>
    
    Propriedade: sonar.host.url
       <p>Valor: http://seuIP:9000/</p>
@@ -74,7 +74,7 @@ Passo 8: <br>
  #### Passo 3:<br>
       • Selecione a opção "5 Maven Build..."<br>
         
-  #### Esta imagem mostra os passos 1,2 e 3.
+  #### Esta imagem mostra os passos 1, 2 e 3.
 
    ![sonar](sonar.png)
 
@@ -94,9 +94,8 @@ Passo 8: <br>
 • Clique em "Add..." e a seguinte tela será exibida. <br>
 • Insira as seguintes propriedades. 
 <br>
-<br>
- Propriedade: surefire.useFile 
- <br>Valor: false   
+Propriedade: surefire.useFile 
+<br>Valor: false   
 
 Propriedade: skip.failsafe.tests 
 <br>Valor:true 
