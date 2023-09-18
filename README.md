@@ -99,6 +99,8 @@ Passo 8: <br>
 
    Propriedade: surefire.useFile 
    <p>Valor: false</p>
+   Propriedade: surefire.useFile  
+   <p>Valor: false <br></p>   
    Propriedade: skip.failsafe.tests 
    <p>Valor: true <br></p>   
    
