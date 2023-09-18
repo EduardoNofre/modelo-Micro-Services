@@ -49,12 +49,11 @@ Tem como objetivo servi como um modelo de construção de micro serviço Java. U
     ![goals](goals.PNG)
   
      Passo 7:<br>
-        • Clique em "Add..." e a seguinte tela será exibida.<br>
-        • Insira as seguintes propriedades.<br>
+        • Clique em "Add..." e a seguinte tela será exibida. <br>
+        • Insira as seguintes propriedades. <br>
             sonar.host.url  http://3.90.84.41:9000/ <br>
             sonar.login seu usuario <br>
-            sonar.password senha senha <br>
-            
+            sonar.password senha senha <br>            
         No final deve ficar algo parecido com a imagem abaixo: <br>
 
       ![goals](add.PNG)
