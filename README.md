@@ -29,7 +29,8 @@ Tem como objetivo servi como um modelo de construção de micro serviço Java. U
      passo 2: Va ate o a opção "Run As"<br>
      passo 3: Selecione a opção "5 Maven Build..."<br>
      Esta imagem mostra os passos 1,2 e 3.
-           ![sonar](sonar.png)
+
+     ![sonar](sonar.png)
 
      passo 4:
      passo 5:
