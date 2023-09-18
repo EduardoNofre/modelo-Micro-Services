@@ -3,3 +3,4 @@ Este projeto é mantido por Eduardo Nofre. Por favor, entenda que não poderemos
 
 ## modelo-Micro-Services
 Modelo de micro services para uso no dia  a dia.
+Tem como objetivo servi como um modelo de construção de micro serviço Java. Um padrão a ser seguido.
