@@ -24,7 +24,7 @@ Tem como objetivo servi como um modelo de construção de micro serviço Java. U
 - Lombok
 
 ## `Ide Eclipse`
-- Configurar sonar no eclipse<br>
+### Configurar sonar no eclipse<br>
      Passo 1:<br>
         • Vá ate o seu projeto e clique bom o botão direito sobre ele. Será exibidas algumas opções.<br>
      Passo 2:<br>
@@ -61,7 +61,7 @@ Tem como objetivo servi como um modelo de construção de micro serviço Java. U
    Passo 8: <br>
        • Adicionado as as propriedades clique em apply e depois m Run.<br>
   
-- Configurar Jacoco
+### Configurar Jacoco
  Passo 1:<br>
         • Vá ate o seu projeto e clique bom o botão direito sobre ele. Será exibidas algumas opções.<br>
      Passo 2:<br>
@@ -97,4 +97,4 @@ Tem como objetivo servi como um modelo de construção de micro serviço Java. U
    Passo 8: <br>
        • Adicionado as as propriedades clique em apply e depois m Run.<br>
   
-- Plugin sonarLint
+### Plugin sonarLint
