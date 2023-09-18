@@ -9,6 +9,9 @@ Tem como objetivo servi como um modelo de construção de micro serviço Java. U
 <p align="center">
    <a href="#requisitos-para-o-desenvolvimento-backend">Requisitos Backend</a> •
    <a href="#ide-eclipse">Ide Eclipse</a> •
+   <a href="#configurar-sonar-no-eclipse">Sonar</a> •
+   <a href="#configurar-jacoco">Jacoco</a> •
+   <a href="#plugin-sonarlint">sonarlint</a> 
 </p>
 
 ## `Requisitos para o desenvolvimento Backend`
