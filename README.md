@@ -7,12 +7,11 @@ Modelo de micro services para uso no dia  a dia.
 Tem como objetivo servi como um modelo de construção de micro serviço Java. Um padrão a ser seguido.
 
 <p align="center">
-   <a href="#ambiente-dev-backend">Ambiente Backend</a> •
-   <a href="#infra-estrutura-aws">Ide Eclipse</a> •
-  <a href="#ambiente-dev-front">Ambiente Front</a>
+   <a href="#requisitos-para-o-desenvolvimento-backend">Requisitos Backend</a> •
+   <a href="#ide-eclipse">Ide Eclipse</a> •
 </p>
 
-## `Requisito para o desenvolvimento Backend`
+## `Requisitos para o desenvolvimento Backend`
 - Eclipse STS 4.19
 - JAVA 11 
 - Plugin SonarLint
