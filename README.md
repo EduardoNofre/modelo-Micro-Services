@@ -33,23 +33,23 @@ Tem como objetivo servi como um modelo de construção de micro serviço Java. U
 #### Passo 3: <br>
    • Selecione a opção "5 Maven Build..." <br>
         
-  #### Esta imagem mostra os passos 1,2 e 3. <br>
+#### Esta imagem mostra os passos 1,2 e 3. <br>
 
 ![sonar](sonar.png)
 
-Passo 4: <br>
+#### Passo 4: <br>
    • Ao selecione a opção "5 Maven Build...! Será exibida a tela como mostra a imagem abaixo.<br>
   
 ![Mavem Build ...](buildMaven.PNG)
   
-Passo 5:<br>
+#### Passo 5:<br>
    • Note que na imagem acima o botão "Add..." está cirluado.<br>
-Passo 6:<br>
+#### Passo 6:<br>
    • Clique no label "Goals" e insira o seguinte valor org.sonarsource.scanner.maven:sonar-maven-plugin:3.3.0.603:sonar;<br>
     
    ![goals](goals.PNG)
   
-Passo 7:<br>
+#### Passo 7:<br>
    • Clique em "Add..." e a seguinte tela será exibida. <br>
    • Insira as seguintes propriedades. <br>
       sonar.host.url  http://seuIP:9000/ <br>
@@ -63,30 +63,30 @@ Passo 8: <br>
    • Adicionado as as propriedades clique em apply e depois m Run.<br>
   
 ### Configurar Jacoco
- Passo 1:<br>
+ #### Passo 1:<br>
       • Vá ate o seu projeto e clique bom o botão direito sobre ele. Será exibidas algumas opções.<br>
- Passo 2:<br>
+ #### Passo 2:<br>
       • Va ate o a opção "Run As".<br>
- Passo 3:<br>
+ #### Passo 3:<br>
       • Selecione a opção "5 Maven Build..."<br>
         
   #### Esta imagem mostra os passos 1,2 e 3.
 
    ![sonar](sonar.png)
 
-Passo 4:<br>
+#### Passo 4:<br>
    • Ao selecione a opção "5 Maven Build...! Será exibida a tela como mostra a imagem abaixo.<br>
   
    ![Mavem Build ...](buildMaven.PNG)
   
-Passo 5:<br>
+#### Passo 5:<br>
    • Note que na imagem acima o botão "Add..." está cirluado.<br>
-Passo 6:<br>
+#### Passo 6:<br>
    • Clique no label "Goals" e insira o seguinte valor org.jacoco:jacoco-maven-plugin:prepare-agent verify<br>
 
 ![goals](gols2.PNG)
 
-Passo 7:<br>
+#### Passo 7:<br>
    • Clique em "Add..." e a seguinte tela será exibida. <br>
    • Insira as seguintes propriedades. <br>
             surefire.useFile false <br>
@@ -95,7 +95,7 @@ Passo 7:<br>
 
 ![goals](jacoco.PNG)
   
-Passo 8: <br>
+#### Passo 8: <br>
    • Adicionado as as propriedades clique em apply e depois m Run.<br>
   
 ### 'Plugin sonarLint'
