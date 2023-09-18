@@ -142,16 +142,19 @@ Propriedade: skip.failsafe.tests
   <h1 align="center">
        Utlização dos protocolos devem seguir o padrão abaixo.
    </h1>
+   
+<p align="center">
+   <a href="#protocolos">Protocolos</a> •
+   <a href="#verbos">Verbos</a>
+</p>
 
-### Verbo: GET, Delete 
+## Protocolos
 ### HTTP 200:<br>
 • Deve ser usado para consultas que tenha algum retorno : 200 ok <br>
       
-### Verbo: Post    
 #### HTTP 201:<br>
 • Deve ser usado persistencia de dados com sucesso : 201 create <br>
 
-### Verbo: GET
 #### HTTP 204:<br>
 • Deve ser usado para consultas que não encontrou um determinado valor no banco : 204 no content <br>
       
