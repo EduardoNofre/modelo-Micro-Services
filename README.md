@@ -67,7 +67,7 @@ Tem como objetivo servi como um modelo de construção de micro serviço Java. U
    ![goals](add.PNG)
   
 Passo 8: <br>
-   • Adicionado as as propriedades clique em apply e depois m Run.<br>
+   • Adicionado as as propriedades clique em Apply e depois m Run.<br>
   
 ### Configurar Jacoco
 #### Passo 1:<br>
@@ -108,6 +108,6 @@ Propriedade: skip.failsafe.tests
 ![goals](jacoco.PNG)
   
 #### Passo 8: <br>
-   • Adicionado as as propriedades clique em apply e depois m Run.<br>
+   • Adicionado as as propriedades clique em Apply e depois m Run.<br>
   
 ### 'Plugin sonarLint'
