@@ -70,12 +70,12 @@ Passo 8: <br>
    • Adicionado as as propriedades clique em apply e depois m Run.<br>
   
 ### Configurar Jacoco
- #### Passo 1:<br>
-      • Vá ate o seu projeto e clique bom o botão direito sobre ele. Será exibidas algumas opções.<br>
+#### Passo 1:<br>
+   • Vá ate o seu projeto e clique bom o botão direito sobre ele. Será exibidas algumas opções.<br>
  #### Passo 2:<br>
-      • Va ate o a opção "Run As".<br>
+   • Va ate o a opção "Run As".<br>
  #### Passo 3:<br>
-      • Selecione a opção "5 Maven Build..."<br>
+   • Selecione a opção "5 Maven Build..."<br>
         
   #### Esta imagem mostra os passos 1, 2 e 3.
 
