@@ -140,7 +140,7 @@ Propriedade: skip.failsafe.tests
   ![sonarlint04](sonarlint04.PNG)
 
   <h1 align="center">
-       Utlização dos protocolos devem o padrão abaixo.
+       Utlização dos protocolos devem seguir o padrão abaixo.
    </h1>
 
 ### Verbo: GET, Delete 
