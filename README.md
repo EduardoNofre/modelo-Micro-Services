@@ -26,7 +26,10 @@ Tem como objetivo servi como um modelo de construção de micro serviço Java. U
 - jacoco 
 - Lombok
 
-## `Ide Eclipse`
+  <h1 align="center">
+       Configurações do eclipse para o projeto
+   </h1>
+   
 ### 'Configurar sonar no eclipse'
 #### Passo 1:<br>
    • Vá ate o seu projeto e clique bom o botão direito sobre ele. Será exibidas algumas opções. <br>
