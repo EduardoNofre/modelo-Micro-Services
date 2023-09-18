@@ -26,13 +26,12 @@ Tem como objetivo servi como um modelo de construção de micro serviço Java. U
 
 ## `Ide Eclipse`
 ### 'Configurar sonar no eclipse'
-
-     Passo 1:
-        • Vá ate o seu projeto e clique bom o botão direito sobre ele. Será exibidas algumas opções.
-     Passo 2:
-        • Va ate o a opção "Run As".
-     Passo 3:
-        • Selecione a opção "5 Maven Build..."
+Passo 1:
+   • Vá ate o seu projeto e clique bom o botão direito sobre ele. Será exibidas algumas opções.
+Passo 2:
+   • Va ate o a opção "Run As".
+Passo 3:
+   • Selecione a opção "5 Maven Build..."
         
   #### Esta imagem mostra os passos 1,2 e 3.
 
@@ -65,11 +64,11 @@ Tem como objetivo servi como um modelo de construção de micro serviço Java. U
   
 ### Configurar Jacoco
  Passo 1:<br>
-        • Vá ate o seu projeto e clique bom o botão direito sobre ele. Será exibidas algumas opções.<br>
-     Passo 2:<br>
-        • Va ate o a opção "Run As".<br>
-     Passo 3:<br>
-        • Selecione a opção "5 Maven Build..."<br>
+      • Vá ate o seu projeto e clique bom o botão direito sobre ele. Será exibidas algumas opções.<br>
+ Passo 2:<br>
+      • Va ate o a opção "Run As".<br>
+ Passo 3:<br>
+      • Selecione a opção "5 Maven Build..."<br>
         
   #### Esta imagem mostra os passos 1,2 e 3.
 
