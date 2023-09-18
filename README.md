@@ -98,7 +98,7 @@ Passo 8: <br>
    <p>Valor: false <br></p>  
    
 Propriedade: skip.failsafe.tests 
-<p>Valor: true <br></p>   
+<p>Valor:true</p>   
    
    No final deve ficar algo parecido com a imagem abaixo <br>
 
