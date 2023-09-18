@@ -145,16 +145,21 @@ Propriedade: skip.failsafe.tests
 
 ### Verbo: GET, Delete 
 ### HTTP 200:<br>
-      Deve ser usado para consultas que tenha algum retorno : 200 ok <br>
+• Deve ser usado para consultas que tenha algum retorno : 200 ok <br>
       
 ### Verbo: Post    
 #### HTTP 201:<br>
-      Deve ser usado persistencia de dados com sucesso : 201 ok <br>
-Verbo: GET
-#### HTTP 204:<br>
-      Deve ser usado para consultas que não encontrou um determinado valor no banco : 204 no content <br>
-      
-#### HTTP ???:<br>
+• Deve ser usado persistencia de dados com sucesso : 201 create <br>
 
-#### HTTP ???:<br>
-   
+### Verbo: GET
+#### HTTP 204:<br>
+• Deve ser usado para consultas que não encontrou um determinado valor no banco : 204 no content <br>
+      
+#### HTTP 409:<br>
+• Ficou definido no hanlde excption como aviso de regra de negocio não atendida. 409 no conflit <br>
+
+#### HTTP 401 <br>
+• Acesso negado sem autorização. 401 Unauthorized <br>  
+
+#### HTTP 500 <br>
+• Erro sem causa mapeada. 500 Internal Server Error <br>  
