@@ -83,6 +83,6 @@ Tem como objetivo servi como um modelo de construção de micro serviço Java. U
      Passo 6:<br>
         • Clique no label "Goals" e insira o seguinte valor org.sonarsource.scanner.maven:sonar-maven-plugin:3.3.0.603:sonar;<br>
 
-    ![goals](goals.PNG)
+    ![goals](goals2.PNG)
   
 - Plugin sonarLint
