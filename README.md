@@ -92,11 +92,11 @@ Passo 8: <br>
 
 #### Passo 7:<br>
 • Clique em "Add..." e a seguinte tela será exibida. <br>
-• Insira as seguintes propriedades.
- <br>Propriedade: surefire.useFile 
+• Insira as seguintes propriedades. <br>
+ Propriedade: surefire.useFile 
  <br>Valor: false   
 
-<br>Propriedade: skip.failsafe.tests 
+Propriedade: skip.failsafe.tests 
 <br>Valor:true 
    
    No final deve ficar algo parecido com a imagem abaixo <br>
