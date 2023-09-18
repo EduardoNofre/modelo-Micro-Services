@@ -167,7 +167,7 @@ Propriedade: skip.failsafe.tests
 #### HTTP 500 <br>
 • Erro sem causa mapeada. 500 Internal Server Error <br>  
 
-### Verbos<BR>
+## Verbos<BR>
 • GET uma representação do recurso de destino;<BR>
 • HEAD a mesma representação que GET, mas sem os dados de representação;<BR>
 • POST uma representação do status ou resultados obtidos da ação;<BR>
