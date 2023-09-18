@@ -24,7 +24,7 @@ Tem como objetivo servi como um modelo de construção de micro serviço Java. U
 - Lombok
 
 ## `Ide Eclipse`
-- Configurar sonar eclipse<br>
+- Configurar sonar no eclipse<br>
      Passo 1:<br>
         • Vá ate o seu projeto e clique bom o botão direito sobre ele. Será exibidas algumas opções.<br>
      Passo 2:<br>
@@ -58,7 +58,31 @@ Tem como objetivo servi como um modelo de construção de micro serviço Java. U
 
     ![goals](add.PNG)
   
-   Passo 8: Adicionado as as propriedades clique em apply e depois m Run.<br>
+   Passo 8: <br>
+       • Adicionado as as propriedades clique em apply e depois m Run.<br>
   
 - Configurar Jacoco
+ Passo 1:<br>
+        • Vá ate o seu projeto e clique bom o botão direito sobre ele. Será exibidas algumas opções.<br>
+     Passo 2:<br>
+        • Va ate o a opção "Run As".<br>
+     Passo 3:<br>
+        • Selecione a opção "5 Maven Build..."<br>
+        
+  #### Esta imagem mostra os passos 1,2 e 3.
+
+     ![sonar](sonar.png)
+
+     Passo 4:<br>
+        • Ao selecione a opção "5 Maven Build...! Será exibida a tela como mostra a imagem abaixo.<br>
+  
+     ![Mavem Build ...](buildMaven.PNG)
+  
+     Passo 5:<br>
+        • Note que na imagem acima o botão "Add..." está cirluado.<br>
+     Passo 6:<br>
+        • Clique no label "Goals" e insira o seguinte valor org.sonarsource.scanner.maven:sonar-maven-plugin:3.3.0.603:sonar;<br>
+
+    ![goals](goals.PNG)
+  
 - Plugin sonarLint
