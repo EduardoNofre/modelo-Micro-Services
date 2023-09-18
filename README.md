@@ -81,8 +81,20 @@ Tem como objetivo servi como um modelo de construção de micro serviço Java. U
      Passo 5:<br>
         • Note que na imagem acima o botão "Add..." está cirluado.<br>
      Passo 6:<br>
-        • Clique no label "Goals" e insira o seguinte valor org.sonarsource.scanner.maven:sonar-maven-plugin:3.3.0.603:sonar;<br>
+        • Clique no label "Goals" e insira o seguinte valor org.jacoco:jacoco-maven-plugin:prepare-agent verify<br>
 
     ![goals](gols2.PNG)
+
+  Passo 7:<br>
+        • Clique em "Add..." e a seguinte tela será exibida. <br>
+        • Insira as seguintes propriedades. <br>
+               surefire.useFile false <br>
+               skip.failsafe.tests true   <br>     
+        No final deve ficar algo parecido com a imagem abaixo <br>
+
+    ![goals](jacoco.PNG)
+  
+   Passo 8: <br>
+       • Adicionado as as propriedades clique em apply e depois m Run.<br>
   
 - Plugin sonarLint
