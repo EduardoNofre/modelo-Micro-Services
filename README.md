@@ -91,8 +91,8 @@ Passo 8: <br>
 ![goals](gols2.PNG)
 
 #### Passo 7:<br>
-   • Clique em "Add..." e a seguinte tela será exibida. <br>
-   • <p>Insira as seguintes propriedades.</p>
+• Clique em "Add..." e a seguinte tela será exibida. <br>
+• Insira as seguintes propriedades.
 
    Propriedade: surefire.useFile  
    <p>Valor: false <br></p>   
