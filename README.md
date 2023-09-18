@@ -117,14 +117,14 @@ Propriedade: skip.failsafe.tests
    • Procure na barra de ferramentas o opção Help e clique no mesmo.<br> 
    Esta imagem contepla os passos 1 e 2
 
-![goals](sonarlint01.PNG)
+![sonarlint01](sonarlint01.PNG)
    
 #### Passo 3:<br>  
    • Selecione a opção install new software. Uma nova janela se abrirá.<br> 
    Como esta na imagem
 
-![goals](sonarlint02.PNG)
+![sonarlint02](sonarlint02.PNG)
 
 #### Passo 4:<br>  
   • Insira o valor no label "Work with": SonarLint for Eclipse Update Site - https://eclipse-uc.sonarlint.org <br>
-  ![goals](sonarlint04.PNG)
+  ![sonarlint04](sonarlint04.PNG)
