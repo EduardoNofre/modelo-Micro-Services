@@ -93,8 +93,10 @@ Passo 8: <br>
 #### Passo 7:<br>
    • Clique em "Add..." e a seguinte tela será exibida. <br>
    • Insira as seguintes propriedades. <br>
-            Propriedade: surefire.useFile    Valor: false <br>
-            Propriedade: skip.failsafe.tests Valor: true   <br>     
+            Propriedade: surefire.useFile    
+            <p>Valor: false <br></p>
+            Propriedade: skip.failsafe.tests 
+            <p>Valor: true   <br></p>   
       No final deve ficar algo parecido com a imagem abaixo <br>
 
 ![goals](jacoco.PNG)
